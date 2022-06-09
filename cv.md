@@ -14,7 +14,7 @@ I want to improve my basic frontend development skills. I have a little freelanc
 * JS basic
 
 ## Code example
-```
+```js
 function multiply(a, b){
   return a * b;
 }
