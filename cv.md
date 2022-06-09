@@ -1,21 +1,45 @@
-CV
+# CV
 
-Userpic
+![My photo](/images/IMG_9546.jpeg)
 
-First and last name
+## First and last name
+```
+Victor Dekh
+```
 
-Contacts
+## Contacts
+```
 vicdekh@gmail.com
+```
 
-About me
+## About me
+```
+I want to improve my basic frontend development skills. I have a little freelance experience for 3 years.
+```
 
-Skills
+## Skills
+```
+HTML5, CSS (SASS), JS basic
+```
 
-Code example
+## Code example
+```
+function multiply(a, b){
+  return a * b;
+}
+```
 
-Experience
+## Experience
+```
+Junior Dev
+```
 
-Educations
+## Educations
+```
+Different courses on YouTube.
+```
 
-English
+## English
+```
 B1
+```
