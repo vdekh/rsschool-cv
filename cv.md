@@ -1,6 +1,6 @@
 # Victor Dekh
 
-![My photo](https://github.com/vdekh/rsschool-cv/images/IMG_9546.jpeg){:height="150px" width="150px"}
+![My photo](https://raw.githubusercontent.com/vdekh/rsschool-cv/gh-pages/images/IMG_9546.jpeg){:height="150px" width="150px"}
 
 ## Contacts
 * vicdekh@gmail.com
