@@ -1,2 +1,2 @@
 # rsschool-cv
-<a href="https://vdekh.github.io/rsschool-cv/cv">My CV</a>
+https://vdekh.github.io/rsschool-cv/cv
