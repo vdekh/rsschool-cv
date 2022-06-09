@@ -1,26 +1,17 @@
-# CV
+# Victor Dekh
 
-![My photo](/images/IMG_9546.jpeg)
-
-## First and last name
-```
-Victor Dekh
-```
+![My photo](https://github.com/vdekh/rsschool-cv/images/IMG_9546.jpeg = 150x150)
 
 ## Contacts
-```
-vicdekh@gmail.com
-```
+* vicdekh@gmail.com
 
 ## About me
-```
 I want to improve my basic frontend development skills. I have a little freelance experience for 3 years.
-```
 
 ## Skills
-```
-HTML5, CSS (SASS), JS basic
-```
+* HTML5
+* CSS (SASS)
+* JS basic
 
 ## Code example
 ```
@@ -30,16 +21,11 @@ function multiply(a, b){
 ```
 
 ## Experience
-```
-Junior Dev
-```
+* Junior Dev
 
 ## Educations
-```
 Different courses on YouTube.
-```
 
-## English
-```
-B1
-```
+## Languages
+* English: B1
+* Russian: native
