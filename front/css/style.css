@@ -246,3 +246,26 @@ body {
 .experience__text {
     margin-top: 32px;
 }
+
+.education {
+    text-align: center;
+}
+.education__table {
+    margin-top: 32px;
+    width: 100%;
+    border-top: 1px solid #F3F3F3;
+    border-spacing: 0;
+}
+.education__row {
+    text-align: left;
+}
+.education__col {
+    padding: 16px 0;
+    border-bottom: 1px solid #F3F3F3;
+}
+.education__col_date span {
+    opacity: 0.5;
+}
+.education__link {
+    color: #20C1A2;
+}
