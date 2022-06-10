@@ -1,0 +1,149 @@
+*,
+:after,
+:before {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    min-width: 320px;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 20px;
+    line-height: 28px;
+    color: #17181A;
+}
+
+.link {
+    text-decoration: none;
+}
+.link:hover {
+    text-decoration: underline;
+}
+
+.container {
+    width: 100%;
+    max-width: 1120px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 24px;
+    padding-right: 24px;
+}
+
+.header {
+    padding: 8px 0;
+    text-align: center;
+    background-color: #20C1A2;
+}
+.header__nav {
+    font-size: 0;
+    line-height: 0;
+}
+.header__link {
+    display: inline-block;
+    margin: 4px 12px;
+    vertical-align: top;
+    color: #ffffff;
+    font-size: 16px;
+    line-height: 24px;
+}
+@media (max-width: 767px) {
+    .header__link {
+        margin: 0 8px;
+        font-size: 14px;
+        line-height: 20px;
+    }
+}
+
+.footer {
+    padding: 16px 0;
+    background-color: #20C1A2;
+}
+.footer__list {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.footer__item {
+    width: 33.33%;
+    font-size: 16px;
+    line-height: 24px;
+}
+.footer__item_copyright {
+    color: #ffffff;
+}
+.footer__item_github {
+    text-align: center;
+}
+.footer__item_school-logo {
+    text-align: right;
+}
+.footer__link {
+    color: #ffffff;
+}
+@media (max-width: 767px) {
+    .footer {
+        padding: 4px 0;
+    }
+    .footer__list {
+        display: block;
+    }
+    .footer__item {
+       width: 100%;
+       margin: 32px 0;
+       font-size: 14px;
+       line-height: 20px;
+       text-align: center;
+    }
+}
+
+.section {
+    margin: 60px 0;
+}
+
+.avatar {
+    text-align: center;
+}
+.avatar__image {
+    display: inline-block;
+    vertical-align: top;
+    margin-bottom: 16px;
+    border: 12px solid #20C1A2;
+    border-radius: 100%;
+}
+.avatar__caption span {
+    color: #20C1A2;
+}
+
+.about {
+    text-align: center;
+}
+.about__title {
+    margin-bottom: 32px;
+    font-size: 44px;
+    line-height: 48px;
+}
+.about__text {
+    margin-bottom: 32px;
+    opacity: 0.5;
+}
+.about__btn {
+    display: inline-block;
+    vertical-align: top;
+    padding: 12px 40px;
+    background-color: #20C1A2;
+    color: #ffffff;
+    border-radius: 26px;
+    text-decoration: none;
+    transition: opacity 0.5s;
+}
+.about__btn:hover {
+    opacity: 0.9;
+}
+@media (max-width: 767px) {
+    .about__text br {
+        display: none;
+    }
+}
