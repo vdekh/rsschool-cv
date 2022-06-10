@@ -85,6 +85,8 @@ body {
     text-align: right;
 }
 .footer__link {
+    display: inline-block;
+    vertical-align: top;
     color: #ffffff;
 }
 @media (max-width: 767px) {
