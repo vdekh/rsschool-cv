@@ -271,3 +271,28 @@ body {
 .education__link {
     color: #20C1A2;
 }
+
+.language {
+    text-align: center;
+}
+.language__list {
+    list-style: none;
+}
+.language__item {
+    display: inline-block;
+    vertical-align: top;
+    margin: 32px 32px 0 32px;
+}
+.language__name {
+    display: block;
+}
+.language__level {
+    font-size: 16px;
+    line-height: 24px;
+    opacity: 0.5;
+}
+@media (max-width: 767px) {
+    .language__item {
+        display: block;
+    }
+}
