@@ -33,6 +33,10 @@ body {
 }
 
 .header {
+    position: fixed;
+    left: 0;
+    right: 0;
+    z-index: 9;
     padding: 8px 0;
     text-align: center;
     background-color: #20C1A2;
@@ -97,6 +101,10 @@ body {
        line-height: 20px;
        text-align: center;
     }
+}
+
+.main {
+    padding-top: 48px;
 }
 
 .section {
@@ -199,4 +207,42 @@ body {
     .skill__item {
         display: block;
     }
+}
+
+.code {
+    text-align: center;
+}
+.code__inner {
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 32px;
+}
+.code__content {
+    padding: 32px 80px 32px 32px;
+    background-color: #F3F3F3;
+    border-left: 8px solid #666666;
+    border-radius: 4px;
+    text-align: left;
+}
+.code__function {
+    color: #3399CC;
+}
+.code__name {
+    color: #FF7E2A;
+}
+.code__sign {
+    color: #FFCC2A;
+}
+.code__variable {
+    color: #20C1A2;
+}
+.code__operator {
+    color: #9528FF;
+}
+
+.experience {
+    text-align: center;
+}
+.experience__text {
+    margin-top: 32px;
 }
