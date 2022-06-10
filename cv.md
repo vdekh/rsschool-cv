@@ -27,5 +27,5 @@ function multiply(a, b){
 Different courses on YouTube.
 
 ## Languages
-* English: B1
+* English: A2
 * Russian: native
