@@ -140,6 +140,7 @@ body {
 
 .avatar {
     text-align: center;
+    margin-bottom: 60px;
 }
 .avatar__image {
     display: inline-block;
